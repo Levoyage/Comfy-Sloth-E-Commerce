@@ -21,6 +21,9 @@
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "CI= react-scripts build",
