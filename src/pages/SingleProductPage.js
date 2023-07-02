@@ -28,6 +28,7 @@ const SingleProductPage = () => {
 
   useEffect(() => {
     fetchSingleProduct(`${url}${id}`)
+    //eslint-disable-next-line
   }, [id])//加上id作为依赖性数组，表示函数在每次id改变时运行，当然不加这个数组也行
 
   useEffect(() => {
@@ -37,6 +38,7 @@ const SingleProductPage = () => {
         navigate('/')
       }, 3000)
     }
+    //eslint-disable-next-line
   }, [error])
 
   if (loading) {
