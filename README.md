@@ -1,6 +1,6 @@
 # Comfy Sloth E-Commerce Project
 
-Welcome to the Comfy Sloth E-Commerce Project! This project aims to build an online store for a furniture company called Comfy Sloth. Below, you'll find an overview of the project as well as instructions on how to explore it further.
+Welcome to the Comfy Sloth E-Commerce Project built by myself! This project aims to build an online store for a furniture company called Comfy Sloth. Below, you'll find an overview of the project as well as instructions on how to explore it further.
 
 ## Overview
 
