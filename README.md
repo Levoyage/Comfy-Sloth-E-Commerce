@@ -1,5 +1,5 @@
 # Comfy Sloth E-Commerce Project
-Preview Link:http://employees-management-system.s3-website-us-east-1.amazonaws.com/
+Preview Link:https://comfy-sloth-store-testing.netlify.app/
 
 Welcome to the Comfy Sloth E-Commerce Project! This project aims to build an online store for a furniture company called Comfy Sloth. Below, you'll find an overview of the project as well as instructions on how to explore it further.
 
