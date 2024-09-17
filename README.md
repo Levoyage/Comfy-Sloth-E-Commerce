@@ -1,4 +1,5 @@
 # Comfy Sloth E-Commerce Project
+link:http://employees-management-system.s3-website-us-east-1.amazonaws.com/
 
 Welcome to the Comfy Sloth E-Commerce Project! This project aims to build an online store for a furniture company called Comfy Sloth. Below, you'll find an overview of the project as well as instructions on how to explore it further.
 
